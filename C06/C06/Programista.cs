@@ -13,5 +13,9 @@ namespace C06
             base.Pracuj();
             Console.WriteLine("Obowiazki programisty");
         }
+        public override void Pracuj2()
+        {
+            Console.WriteLine("Programista pracuje");
+        }
     }
 }

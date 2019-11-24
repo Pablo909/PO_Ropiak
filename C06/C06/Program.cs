@@ -20,6 +20,24 @@ namespace C06
             Console.WriteLine(kwadrat.Pole());
             Console.ReadKey();
 
+            Pracownik ksiegowy = new Ksiegowy();
+            Pracownik programista = new Programista();
+            Pracownik pracownik = new Pracownik();
+            Pracownik projektant = new Projektant();
+
+            List<Pracownik> listaPracownikow = new List<Pracownik>();
+
+            listaPracownikow.Add(ksiegowy);
+            listaPracownikow.Add(programista);
+            listaPracownikow.Add(pracownik);
+            listaPracownikow.Add(projektant);
+            foreach(Pracownik x in listaPracownikow)
+            {
+                x.Pracuj2();
+            }
+
+            Console.ReadKey();
+
         }
     }
 }

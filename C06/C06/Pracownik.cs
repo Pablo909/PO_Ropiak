@@ -12,5 +12,9 @@ namespace C06
         {
             Console.WriteLine("Logowanie");
         }
+        public virtual void Pracuj2()
+        {
+            Console.WriteLine("pracownik pracuje");
+        }
     }
 }
