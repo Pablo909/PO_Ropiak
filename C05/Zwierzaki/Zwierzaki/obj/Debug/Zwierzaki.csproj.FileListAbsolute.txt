@@ -1,0 +1,6 @@
+C:\Users\Pablo\source\repos\Zwierzaki\Zwierzaki\bin\Debug\Zwierzaki.exe.config
+C:\Users\Pablo\source\repos\Zwierzaki\Zwierzaki\bin\Debug\Zwierzaki.exe
+C:\Users\Pablo\source\repos\Zwierzaki\Zwierzaki\bin\Debug\Zwierzaki.pdb
+C:\Users\Pablo\source\repos\Zwierzaki\Zwierzaki\obj\Debug\Zwierzaki.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\Zwierzaki\Zwierzaki\obj\Debug\Zwierzaki.exe
+C:\Users\Pablo\source\repos\Zwierzaki\Zwierzaki\obj\Debug\Zwierzaki.pdb
