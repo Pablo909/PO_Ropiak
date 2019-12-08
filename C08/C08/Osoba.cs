@@ -29,5 +29,10 @@ namespace C08
         {
             this.wiek = nowyWiek;
         }
+
+        public new void ToString()
+        {
+            Console.WriteLine("Imie: {0}, wiek: {1}", imie, wiek);
+        }
     }
 }
