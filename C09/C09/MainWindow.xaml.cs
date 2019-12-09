@@ -29,7 +29,16 @@ namespace C09
         private void MyButton_Click(object sender, RoutedEventArgs e)
         {
             imie = MyTextBoxPobieranie.Text;
-            MessageBox.Show("Cześć " + imie);
+
+            if (MyTextBoxPobieranie.Text != "Wprowadź imię")
+                MyTextBoxWyswietlanie.Text = "Cześć " + imie;
+            else
+                MessageBox.Show("Wprowadź imię");
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MyTextBoxWyswietlanie.Text = "";
         }
     }
 }

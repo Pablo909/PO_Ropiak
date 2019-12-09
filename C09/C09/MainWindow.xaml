@@ -7,8 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="300" Width="500">
     <Grid Margin="0,-35,-81.4,-63">
-        <Button x:Name="MyButton" Content="Button" HorizontalAlignment="Left" Margin="41,80,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.533,0.526" Click="MyButton_Click"/>
-        <TextBox x:Name="MyTextBoxPobieranie" HorizontalAlignment="Left" Height="23" Margin="41,129,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="MyTextBoxWyswietlanie" HorizontalAlignment="Left" Height="23" Margin="41,176,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="MyButton" Content="Pokaż" HorizontalAlignment="Left" Margin="271,124,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.533,0.526" Click="MyButton_Click"/>
+        <TextBox x:Name="MyTextBoxPobieranie" HorizontalAlignment="Left" Height="23" Margin="108,124,0,0" TextWrapping="Wrap" Text="Wprowadź imię" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="MyTextBoxWyswietlanie" HorizontalAlignment="Left" Height="23" Margin="108,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Label Content="Wprowadzanie&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top"/>
+        <Label Content="Wyświetlanie&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,169,0,0" VerticalAlignment="Top"/>
+        <Button Content="Wyczyść" HorizontalAlignment="Left" Margin="271,168,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
     </Grid>
 </Window>
