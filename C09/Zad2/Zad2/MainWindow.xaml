@@ -6,11 +6,11 @@
         xmlns:local="clr-namespace:Zad2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button x:Name="ButtonDzielenie" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="330,128,0,0" Click="ButtonDzielenie_Click"/>
-        <Button x:Name="ButtonMnozenie" Content="*" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="236,128,0,0" Click="ButtonMnozenie_Click"/>
-        <Button x:Name="Button" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="236,80,0,0" Click="Button_Click"/>
-        <Button x:Name="ButtonOdejmowanie" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="330,80,0,0" Click="ButtonOdejmowanie_Click"/>
+    <Grid Background="#FFEAD885">
+        <Button x:Name="ButtonDzielenie" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="330,128,0,0" Click="ButtonDzielenie_Click" Background="#FFFAF304"/>
+        <Button x:Name="ButtonMnozenie" Content="*" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="236,128,0,0" Click="ButtonMnozenie_Click" Background="#FF0701FA"/>
+        <Button x:Name="Button" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="236,80,0,0" Click="Button_Click" Background="#FF20FC09"/>
+        <Button x:Name="ButtonOdejmowanie" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="330,80,0,0" Click="ButtonOdejmowanie_Click" Background="#FFFC0707"/>
         <TextBox x:Name="TextBoxWynik" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Wynik" VerticalAlignment="Top" Width="120" Margin="261,167,0,0" IsEnabled="False"/>
         <TextBox x:Name="TextBoxWprowadzanie2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="330,28,0,0"/>
         <TextBox x:Name="TextBoxWprowadzanie1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="191,28,0,0"/>
