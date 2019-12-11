@@ -1,0 +1,15 @@
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\bin\Debug\C09_Zad3.exe.config
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\bin\Debug\C09_Zad3.exe
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\bin\Debug\C09_Zad3.pdb
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3.csprojAssemblyReference.cache
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\MainWindow.g.cs
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\App.g.cs
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3_MarkupCompile.cache
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3_MarkupCompile.lref
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\MainWindow.baml
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3.g.resources
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3.Properties.Resources.resources
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3.csproj.GenerateResource.cache
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3.exe
+C:\Users\local\source\repos\C09_Zad3\C09_Zad3\obj\Debug\C09_Zad3.pdb
