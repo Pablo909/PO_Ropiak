@@ -4,3 +4,9 @@ C:\Users\Pablo\source\repos\Obiektowe_C05\Obiektowe_C05\bin\Debug\Obiektowe_C05.
 C:\Users\Pablo\source\repos\Obiektowe_C05\Obiektowe_C05\obj\Debug\Obiektowe_C05.csprojAssemblyReference.cache
 C:\Users\Pablo\source\repos\Obiektowe_C05\Obiektowe_C05\obj\Debug\Obiektowe_C05.exe
 C:\Users\Pablo\source\repos\Obiektowe_C05\Obiektowe_C05\obj\Debug\Obiektowe_C05.pdb
+C:\Users\Pablo\source\repos\Pablo909\PO_Ropiak\C05\Obiektowe_C05\bin\Debug\Obiektowe_C05.exe.config
+C:\Users\Pablo\source\repos\Pablo909\PO_Ropiak\C05\Obiektowe_C05\bin\Debug\Obiektowe_C05.exe
+C:\Users\Pablo\source\repos\Pablo909\PO_Ropiak\C05\Obiektowe_C05\bin\Debug\Obiektowe_C05.pdb
+C:\Users\Pablo\source\repos\Pablo909\PO_Ropiak\C05\Obiektowe_C05\obj\Debug\Obiektowe_C05.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\Pablo909\PO_Ropiak\C05\Obiektowe_C05\obj\Debug\Obiektowe_C05.exe
+C:\Users\Pablo\source\repos\Pablo909\PO_Ropiak\C05\Obiektowe_C05\obj\Debug\Obiektowe_C05.pdb

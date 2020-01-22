@@ -13,17 +13,17 @@ namespace C04
             Osoba osoba1 = new Osoba("Paweł", "Dzik", 1998);
             Osoba osoba2 = new Osoba("Bartek", "Kocur", 1997);
 
-            osoba1.WypiszInfo();
+            //osoba1.WypiszInfo();
 
             Type type = osoba2.GetType();
 
-           /*
+           
             foreach (var f in type.GetFields())
             {
                 Console.WriteLine(String.Format("Nazwa: {0}, Typ: {2}, Wartosc: {1}", f.Name, f.GetValue(osoba2), f.FieldType));
             }
             Console.ReadKey();
-            */
+            
 
             Student student1 = new Student("Mati", "Byk", 1998, 2, 1, 156313);
             Student student2 = new Student("Kamil", "Chojrak", 1998, 2, 1, 178543);
